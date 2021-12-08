@@ -14,7 +14,7 @@ namespace CarRentalManagement.Shared.Domain
 
         public int MakeId { get; set; }
 
-        public virtual Make make { get; set; }
+        public virtual Make Make { get; set; }
 
         public int ModelId { get; set; }
 
